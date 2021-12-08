@@ -1,0 +1,8 @@
+- Run "cd serverless-laravel && serverless deploy" to deploy your new application.
+serverless ⚡framework
+Action: "deploy" - Stage: "dev" - App: "serverless-laravel" - Instance: "laravelDemo"
+前往控制台查看应用详细信息: https://console.cloud.tencent.com/ssr/detail?stageName=dev&appName=serverless-laravel&instanceName=larave前往控制台查看应用详细信息: https://console.cloud.tencent.com/ssr/detail?stageName=dev&appName=serverless-laravel&instanceName=larave
+lDemo&stageList=dev
+
+391s › laravelDemo › Success
+
