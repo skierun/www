@@ -1,5 +1,5 @@
 
-## Skier Curling - 雪地冰壶
+## Speed Run Curling - 极速冰壶
 `
 * 经典飞行棋玩法升级, 乐趣翻倍~
 
